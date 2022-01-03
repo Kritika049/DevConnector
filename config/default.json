@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://kritika498:kritika1998@devconnector.mpvmj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    ,"jwtToken":"mysecrettoken"
+    ,"githubClientId":"f6625e9479f5b9d4ad0b"
+    ,"githubSecret":"7488e2bf736473b92eaadd0e7112c94d58452d79"
+}
